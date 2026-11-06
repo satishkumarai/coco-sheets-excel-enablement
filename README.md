@@ -46,5 +46,7 @@ Snowflake Chronicles
 Learn. Build. Document. Share.
 
 LinkedIn: https://www.linkedin.com/in/satishkumar-snowflake/
+
 GitHub: https://github.com/satishkumarai
+
 Medium: https://snowflakechronicles.medium.com/
